@@ -1,3 +1,10 @@
+Name:Prathamesh Raju Punekar
+Company:CODTECH IT SOLUTIONS PVT.LTD
+Intern ID :CT12WEZM
+Domain:Data Science.
+Duration:December 2024-march 2025
+Mentor: Muzammil Ahmed
+
 # Overview
 Version: Specifies the version of Power BI used.
 [Content_Types].xml: Describes the types of content within the file.
